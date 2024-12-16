@@ -1,0 +1,23 @@
+,player_id,match_id,team_id,card_short,known_as,dob,batting_hand,batting_style,bowling_hand,bowling_pacespin,bowling_style
+0,93957,1400053,18,Pai,Avinash Pai,1982-01-24,right-hand batter,rhb,right-arm bowler,spin bowler,ob
+1,109868,1400053,18,Bruce,Louis Bruce,2005-06-25,right-hand batter,rhb,right-arm bowler,pace bowler,rm
+2,62850,1400053,18,Freyone,Julian Freyone,1994-05-07,right-hand batter,rhb,right-arm bowler,pace bowler,rm
+3,59806,1400053,18,Latin,Iain Latin,1984-06-14,right-hand batter,rhb,right-arm bowler,spin bowler,lb
+4,106746,1400053,18,Nestor,Kenroy Nestor,1988-09-08,right-hand batter,rhb,right-arm bowler,pace bowler,rf
+5,103389,1400053,18,Fitzgerald,James Fitzgerald,1999-04-10,right-hand batter,rhb,right-arm bowler,pace bowler,rmf
+6,65881,1400053,18,Stagno,Kayron J Stagno,1993-09-07,right-hand batter,rhb,right-arm bowler,spin bowler,ob
+7,65832,1400053,18,Reyes,Andrew Reyes,1984-03-07,right-hand batter,rhb,right-arm bowler,pace bowler,rm
+8,109867,1400053,18,Bodha,Samarth Bodha,2003-02-03,right-hand batter,rhb,right-arm bowler,pace bowler,rm
+9,91025,1400053,18,Horrocks,Jack Horrocks,1993-05-26,right-hand batter,rhb,left-arm bowler,pace bowler,lm
+10,52739,1400053,18,Mirpuri,Kabir Mirpuri,1987-11-27,right-hand batter,rhb,right-arm bowler,spin bowler,ob
+0,112444,1400053,5615,Dizija,Alexander Dizija,1992-02-09,right-hand batter,rhb,right-arm bowler,spin bowler,ob
+1,112553,1400053,5615,Ivetic,Simo Ivetic,1991-06-02,right-hand batter,rhb,right-arm bowler,pace bowler,rmf
+2,106658,1400053,5615,Dunbar,Leslie Dunbar,1990-01-02,right-hand batter,rhb,unknown arm,mixture/unknown,
+3,109547,1400053,5615,Burton,Wintley Burton,1991-10-15,right-hand batter,rhb,right-arm bowler,pace bowler,rmf
+4,106656,1400053,5615,Reb,Jovan Reb,2001-10-01,right-hand batter,rhb,right-arm bowler,spin bowler,lb
+5,106654,1400053,5615,Zimonjic,Nemanja Zimonjic,2003-11-15,right-hand batter,rhb,right-arm bowler,pace bowler,rm
+6,112552,1400053,5615,Gajic,Alister Gajic,1988-06-04,right-hand batter,rhb,right-arm bowler,pace bowler,rmf
+7,115984,1400053,5615,Tresac,Djordje Tresac,1985-10-10,right-hand batter,rhb,unknown arm,mixture/unknown,
+8,106660,1400053,5615,Sarenac,Matija Sarenac,2004-01-10,right-hand batter,rhb,right-arm bowler,pace bowler,rm
+9,106659,1400053,5615,Djorovic,Aleksa Djorovic,1993-06-15,right-hand batter,rhb,left-arm bowler,spin bowler,lws
+10,115983,1400053,5615,Nedeljkovic,Peter Nedeljkovic,2007-12-16,right-hand batter,rhb,unknown arm,mixture/unknown,
